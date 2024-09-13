@@ -175,4 +175,7 @@ option:nth-child(3){
     .expense-details .entered-ex{
         width: 100%;
     }
+    .expense-details .entered-ex #title{
+        width: 20%;
+    }
 }
