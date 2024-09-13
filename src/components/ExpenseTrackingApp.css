@@ -170,3 +170,9 @@ option:nth-child(3){
     font-weight: 600;
 
 }
+
+@media only screen and (max-width: 600px) {
+    .expense-details .entered-ex{
+        width: 100%;
+    }
+}
